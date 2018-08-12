@@ -13,12 +13,31 @@ Note:
 ---
 ![Video](https://www.youtube.com/embed/phg5W55xCBw)
 ---
+### More about Alabama 811...
+- In operation since 1975
+- Operating as Alabama 811 since 2011
+- Located in Fultondale, AL
+- 25 Employees
 
+Note:
+- 15 Call Center Agents
 
-#Thank You / Questions
+---
+### Operating Statistics
+
+#### 2003
+- 367,831 Locate Requests
+- 221,978 Phone Calls
+#### 2017
+- 585,316 Locate Requests
+- 206,498 Phone Calls
+
+## Thank You / Questions
 
 mbrown@al811.com
+
 205.731.3202
+
 @mattbrowngis
 
 
