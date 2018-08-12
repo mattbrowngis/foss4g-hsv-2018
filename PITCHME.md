@@ -23,14 +23,26 @@ Note:
 - 15 Call Center Agents
 
 ---
+
 ### Operating Statistics
 
 #### 2003
 - 367,831 Locate Requests
 - 221,978 Phone Calls
+
+---
+
 #### 2017
 - 585,316 Locate Requests
 - 206,498 Phone Calls
+
+---
+
+## What About GIS?
+
+Time for a Demo
+
+---
 
 ## Thank You / Questions
 
