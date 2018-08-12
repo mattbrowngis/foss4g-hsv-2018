@@ -27,20 +27,41 @@ Note:
 ### Operating Statistics
 
 #### 2003
-- 367,831 Locate Requests
+- 367,831 Locate Requests Received
+- 2,528,788 Requests Sent to Member Utilities
 - 221,978 Phone Calls
 
 ---
 
 #### 2017
 - 585,316 Locate Requests
+- 5,037,734 Requests Sent to Member Utilities
 - 206,498 Phone Calls
 
 ---
 
 ## What About GIS?
 
-Time for a Demo
+---
+###Current FOSS4G Stack 
+
+#### GeoCall
+
+- Progressive Partnering
+- 11 State One Call Centers
+- Integrated GIS - Openlayers, Mapserver, Mapcache, Postgis
+- Cloud Hosted (Azure)
+
+---
+
+### Infrastructure
+- 2 Load Balanced Windows Servers
+- 2 Linux Postgres Servers
+- Azure SQL Server 
+
+---
+
+## Demo Time!
 
 ---
 
