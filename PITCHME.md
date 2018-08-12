@@ -43,7 +43,7 @@ Note:
 ## What About GIS?
 
 ---
-###Current FOSS4G Stack 
+### Current FOSS4G Stack 
 
 #### GeoCall
 
@@ -64,6 +64,19 @@ Note:
 ## Demo Time!
 
 ---
+
+### How we started with FOSS4G
+- Geocall - Desktop Application - Mapobjects
+- Arcmap for Data management
+- Tried Manifold for Web Maps
+- 2004 - Mapserver based Service Area Editor
+
+---
+
+![Web Map](images/mapviewer.png)
+
+---
+
 
 ## Thank You / Questions
 
