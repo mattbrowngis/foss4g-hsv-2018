@@ -40,6 +40,9 @@ Note:
 
 ---
 
+![Ticket View](images/ticketview.png)
+
+---
 ## What About GIS?
 
 ---
@@ -48,16 +51,16 @@ Note:
 #### GeoCall
 
 - Progressive Partnering
-- 11 State One Call Centers
+- 11 (and counting) State One Call Centers
 - Integrated GIS - Openlayers, Mapserver, Mapcache, Postgis
-- Cloud Hosted (Azure)
+- Cloud Hosted (Azure) - Not All States
 
 ---
 
 ### Infrastructure
 - 2 Load Balanced Windows Servers
 - 2 Linux Postgres Servers
-- Azure SQL Server 
+- Azure SQL Server (Hosted)
 
 ---
 
@@ -70,6 +73,18 @@ Note:
 - Arcmap for Data management
 - Tried Manifold for Web Maps
 - 2004 - Mapserver based Service Area Editor
+
+---
+
+![Manifold](images/manifold.png)
+
+---
+
+![V2 Plain](images/screennoimagery.jpg)
+
+---
+
+![V2 NAIP](images/screenimagery.jpg)
 
 ---
 
