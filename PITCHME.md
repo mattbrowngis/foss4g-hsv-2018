@@ -40,7 +40,7 @@ Note:
 
 ---
 
-![Ticket View](images/ticketview.png)
+![Ticket View](images/tickettext.png)
 
 ---
 ## What About GIS?
@@ -48,7 +48,7 @@ Note:
 ---
 ### Current FOSS4G Stack 
 
-#### GeoCall
+#### GeoCall V3 - Launched in Alabama in August, 2012
 
 - Progressive Partnering
 - 11 (and counting) State One Call Centers
@@ -91,6 +91,24 @@ Note:
 ![Web Map](images/mapviewer.png)
 
 ---
+
+How we made the jump...
+![Yellow Brick Road](images/yellow-brick-road-rainbow.jpg)
+
+---
+
+## Challenge
+
+Convincing others to try something new...
+
+---
+
+## Challenge
+
+Finding time to learn something new...
+
+---
+
 
 
 ## Thank You / Questions
