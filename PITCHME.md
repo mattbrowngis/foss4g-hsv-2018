@@ -40,7 +40,7 @@ Note:
 
 ---
 
-![Ticket View](images/tickettext.png)
+![Ticket View](images/tickettext_t.png)
 
 ---
 ## What About GIS?
@@ -76,24 +76,24 @@ Note:
 
 ---
 
-![Manifold](images/manifold.png)
+![Manifold](images/manifold_t.png)
 
 ---
 
-![V2 Plain](images/screennoimagery.jpg)
+![V2 Plain](images/screennoimagery_t.jpg)
 
 ---
 
-![V2 NAIP](images/screenimagery.jpg)
+![V2 NAIP](images/screenimagery_t.jpg)
 
 ---
 
-![Web Map](images/mapviewer.png)
+![Web Map](images/mapviewer_t.png)
 
 ---
 
 How we made the jump...
-![Yellow Brick Road](images/yellow-brick-road-rainbow.jpg)
+![Yellow Brick Road](images/yellow-brick-road-rainbow_t.jpg)
 
 ---
 
@@ -106,6 +106,20 @@ Convincing others to try something new...
 ## Challenge
 
 Finding time to learn something new...
+
+---
+
+![tornado outside](images/tornado1.png)
+
+---
+
+![tornado office](images/tornado2.png)
+
+---
+
+## Challenge 
+
+Finding motivation to finally make the jump...
 
 ---
 
