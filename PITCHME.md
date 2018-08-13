@@ -183,9 +183,7 @@ Millions and Millions and Millions of map tiles!
 
 ![styleswitch](images/styleswitch.gif)
 
----
-
-![full text search](images/fulltext.gif)
+---?image=images/fulltext.gif&size=contain
 
 ---
 
@@ -201,7 +199,7 @@ mbrown@al811.com
 
 ## Thank You / Questions
 
-![flashing](images/server.png)
+![flashing](images/MFSYS25-1-lg.jpg)
 
 mbrown@al811.com
 
