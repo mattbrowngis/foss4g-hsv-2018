@@ -153,12 +153,59 @@ Finding motivation to finally make the jump...
 
 ![flashing](images/flashing.gif)
 
+---
+
+## Challenge
+
+Millions and Millions and Millions of map tiles!
+
+---
+
+![tiles](images/level8.png)
+
+---
+
+![tiles](images/level8_imagery.png)
+
+---
+
+![tiles](images/level8_imageryol.png)
+
+---
+
+## What's next?
+- Vector Tiles directly from Postgis (ST_asMVT)
+- Postgis Full Text Search
+- Automated ETL/Geoprocessing
+- ??
+
+---
+
+![styleswitch](images/styleswitch.gif)
+
+---
+
+![full text search](images/fulltext.gif)
+
+---
+
 ## Thank You / Questions
+
+![flashing](images/flashing.gif)
 
 mbrown@al811.com
 
 205.731.3202
 
-@mattbrowngis
+---
+
+## Thank You / Questions
+
+![flashing](images/server.png)
+
+mbrown@al811.com
+
+205.731.3202
+
 
 
