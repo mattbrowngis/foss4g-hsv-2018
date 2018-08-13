@@ -92,7 +92,7 @@ Note:
 
 ---
 
-How we made the jump...
+How we made the transition...
 ![Yellow Brick Road](images/yellow-brick-road-rainbow_t.jpg)
 
 ---
@@ -123,7 +123,35 @@ Finding motivation to finally make the jump...
 
 ---
 
+![healthy](images/healthy.png)
 
+---
+
+![oneorange](images/oneorange.png)
+
+---
+
+![healthy](images/healthy.png)
+
+---
+
+![twoorange](images/twoorange.png)
+
+---
+
+![threeorange](images/threeorange.png)
+
+---
+
+![healthy](images/healthy.png)
+
+---
+
+![construction](images/construction.png)
+
+---
+
+![flashing](images/flashing.gif)
 
 ## Thank You / Questions
 
