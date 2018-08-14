@@ -72,7 +72,6 @@ Note:
 - Geocall - Desktop Application - Mapobjects
 - Arcmap for Data management
 - Tried Manifold for Web Maps
-- 2004 - Mapserver based Service Area Editor
 
 ---
 
@@ -100,7 +99,7 @@ Note:
 - Started using PostGIS for other tasks
 
 ---
-How we made the full transition...
+There will be challenges along the way...
 ![Yellow Brick Road](images/yellow-brick-road-rainbow_t.jpg)
 
 ---
