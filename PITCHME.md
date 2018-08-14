@@ -1,4 +1,4 @@
-### The Long Road to GIS Freedom at Alabama 811
+### The Long Road to FOSS4G at Alabama 811
 
 Matt Brown
 
