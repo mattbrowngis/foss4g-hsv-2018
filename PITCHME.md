@@ -68,7 +68,7 @@ Note:
 
 ---
 
-### How we started with FOSS4G
+### How we started with GIS...
 - Geocall - Desktop Application - Mapobjects
 - Arcmap for Data management
 - Tried Manifold for Web Maps
@@ -88,11 +88,19 @@ Note:
 
 ---
 
+### 2004 - Mapserver Based Service Area Editor
 ![Web Map](images/mapviewer_t.png)
 
 ---
 
-How we made the transition...
+### 2007 - Planning Started for GeoCall Version 3
+- Wanted to use mapserver
+- Needed to search and display features
+- Decided to use PostGIS
+- Started using PostGIS for other tasks
+
+---
+How we made the full transition...
 ![Yellow Brick Road](images/yellow-brick-road-rainbow_t.jpg)
 
 ---
@@ -173,15 +181,22 @@ Millions and Millions and Millions of map tiles!
 
 ---
 
-## What's next?
-- Vector Tiles directly from Postgis (ST_asMVT)
-- Postgis Full Text Search
-- Automated ETL/Geoprocessing
-- ??
+## Challenge
+
+Once you have mastered one thing, it is time to learn something new.
 
 ---
 
-![styleswitch](images/styleswitch.gif)
+## What's next?
+- More PostGIS!
+- Vector Tiles directly from Postgis (ST_AsMVT)
+- Cache Tiles in Postgres
+- Full Text Search in PostGIS
+- Automated Geoprocessing...in PostGIS
+
+---?image=images/styleswitch.gif&size=contain
+
+---?image=images/stasmvt.png&size=contain
 
 ---?image=images/fulltext.gif&size=contain
 
