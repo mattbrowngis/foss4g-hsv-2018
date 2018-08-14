@@ -1,4 +1,4 @@
-### How Open Source GIS Helps Prevent Excavation Damage in Alabama
+### The Long Road to GIS Freedom at Alabama 811
 
 Matt Brown
 
